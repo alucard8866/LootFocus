@@ -32,7 +32,7 @@
             "id": "com.fooa.lootfocus.skin.spaceminer",
             "displayName": "Deep Space Miner",
             "description": "Galactic armor",
-            "displayPrice": "$2.99",
+            "displayPrice": "$222.99",
             "currencyType": "realMoney",
             "rarity": "rare",
             "iconName": "hero_spaceminer_idle"
