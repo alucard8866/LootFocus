@@ -1,0 +1,131 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id": "com.fooa.lootfocus.skin.default",
+            "displayName": "Default Hero",
+            "description": "Classic adventurer",
+            "displayPrice": "Owned",
+            "currencyType": "gold",
+            "rarity": "common",
+            "iconName": "hero_idle"
+        },
+        {
+            "id": "com.fooa.lootfocus.skin.golden_knight",
+            "displayName": "Golden Knight",
+            "description": "Shining armor for heroes",
+            "displayPrice": "$4.99",
+            "currencyType": "realMoney",
+            "rarity": "legendary",
+            "iconName": "hero_golden_knight_idle"
+        },
+        {
+            "id": "com.fooa.lootfocus.skin.cyberpunk",
+            "displayName": "Cyberpunk Ronin",
+            "description": "Neon samurai style",
+            "displayPrice": "$2.99",
+            "currencyType": "realMoney",
+            "rarity": "rare",
+            "iconName": "hero_cyberpunk_idle"
+        },
+        {
+            "id": "com.fooa.lootfocus.skin.spaceminer",
+            "displayName": "Deep Space Miner",
+            "description": "Galactic armor",
+            "displayPrice": "$2.99",
+            "currencyType": "realMoney",
+            "rarity": "rare",
+            "iconName": "hero_spaceminer_idle"
+        },
+        {
+            "id": "com.fooa.lootfocus.skin.lichking",
+            "displayName": "Lich King",
+            "description": "Dark lord essence",
+            "displayPrice": "$3.99",
+            "currencyType": "realMoney",
+            "rarity": "legendary",
+            "iconName": "hero_lichking_idle"
+        },
+        {
+            "id": "com.fooa.lootfocus.pet.dog",
+            "displayName": "8-Bit Dog",
+            "description": "Woof woof pixel",
+            "displayPrice": "500",
+            "currencyType": "gold",
+            "rarity": "common",
+            "iconName": "pet_dog_idle"
+        },
+        {
+            "id": "com.fooa.lootfocus.pet.drone",
+            "displayName": "Floating Drone",
+            "description": "Scans for distractions",
+            "displayPrice": "1200",
+            "currencyType": "gold",
+            "rarity": "rare",
+            "iconName": "pet_drone_idle"
+        },
+        {
+            "id": "com.fooa.lootfocus.pet.dragon",
+            "displayName": "Mini-Dragon",
+            "description": "Fire breather",
+            "displayPrice": "5000",
+            "currencyType": "gold",
+            "rarity": "legendary",
+            "iconName": "pet_dragon_idle"
+        },
+        {
+            "id": "com.fooa.lootfocus.pet.slime",
+            "displayName": "Slime Blob",
+            "description": "Jiggly friend",
+            "displayPrice": "100",
+            "currencyType": "gold",
+            "rarity": "common",
+            "iconName": "enemy_slime"
+        },
+        {
+            "id": "com.fooa.lootfocus.biome.forest",
+            "displayName": "Forest Clearing",
+            "description": "Classic adventure",
+            "displayPrice": "$1.99",
+            "currencyType": "realMoney",
+            "rarity": "common",
+            "iconName": "forest_biome"
+        },
+        {
+            "id": "com.fooa.lootfocus.biome.vaporwave",
+            "displayName": "Vaporwave Highway",
+            "description": "Aesthetics only",
+            "displayPrice": "$1.99",
+            "currencyType": "realMoney",
+            "rarity": "rare",
+            "iconName": "vaporwave_biome"
+        },
+        {
+            "id": "com.fooa.lootfocus.biome.cafe",
+            "displayName": "Cozy Cafe",
+            "description": "Chill vibes",
+            "displayPrice": "$1.99",
+            "currencyType": "realMoney",
+            "rarity": "rare",
+            "iconName": "cafe_biome"
+        },
+        {
+            "id": "com.fooa.lootfocus.bundle.starter",
+            "displayName": "Starter Pack",
+            "description": "Essential gear",
+            "displayPrice": "$4.99",
+            "currencyType": "realMoney",
+            "rarity": "rare",
+            "iconName": "icon_bundle_starter"
+        },
+        {
+            "id": "com.fooa.lootfocus.bundle.ultimate",
+            "displayName": "Ultimate Legend",
+            "description": "Everything you need",
+            "displayPrice": "$14.99",
+            "currencyType": "realMoney",
+            "rarity": "legendary",
+            "iconName": "icon_bundle_ultimate"
+        }
+    ]
+}
