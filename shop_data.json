@@ -110,15 +110,6 @@
             "iconName": "cafe_biome"
         },
         {
-            "id": "com.fooa.lootfocus.biome.test",
-            "displayName": "tes 1",
-            "description": "tes vibes",
-            "displayPrice": "$1.99",
-            "currencyType": "realMoney",
-            "rarity": "Rare",
-            "iconName": "cafe_biome"
-        },
-        {
             "id": "com.fooa.lootfocus.bundle.starter",
             "displayName": "Starter Pack",
             "description": "Essential gear",
