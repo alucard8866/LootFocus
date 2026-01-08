@@ -7,7 +7,7 @@
             "description": "Classic adventurer",
             "displayPrice": "Owned",
             "currencyType": "gold",
-            "rarity": "common",
+            "rarity": "Common",
             "iconName": "hero_idle"
         },
         {
@@ -16,7 +16,7 @@
             "description": "Shining armor for heroes",
             "displayPrice": "$4.99",
             "currencyType": "realMoney",
-            "rarity": "legendary",
+            "rarity": "Legendary",
             "iconName": "hero_golden_knight_idle"
         },
         {
@@ -25,16 +25,16 @@
             "description": "Neon samurai style",
             "displayPrice": "$2.99",
             "currencyType": "realMoney",
-            "rarity": "rare",
+            "rarity": "Rare",
             "iconName": "hero_cyberpunk_idle"
         },
         {
             "id": "com.fooa.lootfocus.skin.spaceminer",
             "displayName": "Deep Space Miner",
             "description": "Galactic armor",
-            "displayPrice": "$222.99",
+            "displayPrice": "$1.99",
             "currencyType": "realMoney",
-            "rarity": "rare",
+            "rarity": "Rare",
             "iconName": "hero_spaceminer_idle"
         },
         {
@@ -43,7 +43,7 @@
             "description": "Dark lord essence",
             "displayPrice": "$3.99",
             "currencyType": "realMoney",
-            "rarity": "legendary",
+            "rarity": "Legendary",
             "iconName": "hero_lichking_idle"
         },
         {
@@ -52,7 +52,7 @@
             "description": "Woof woof pixel",
             "displayPrice": "500",
             "currencyType": "gold",
-            "rarity": "common",
+            "rarity": "Common",
             "iconName": "pet_dog_idle"
         },
         {
@@ -61,7 +61,7 @@
             "description": "Scans for distractions",
             "displayPrice": "1200",
             "currencyType": "gold",
-            "rarity": "rare",
+            "rarity": "Rare",
             "iconName": "pet_drone_idle"
         },
         {
@@ -70,7 +70,7 @@
             "description": "Fire breather",
             "displayPrice": "5000",
             "currencyType": "gold",
-            "rarity": "legendary",
+            "rarity": "Legendary",
             "iconName": "pet_dragon_idle"
         },
         {
@@ -79,7 +79,7 @@
             "description": "Jiggly friend",
             "displayPrice": "100",
             "currencyType": "gold",
-            "rarity": "common",
+            "rarity": "Common",
             "iconName": "enemy_slime"
         },
         {
@@ -88,7 +88,7 @@
             "description": "Classic adventure",
             "displayPrice": "$1.99",
             "currencyType": "realMoney",
-            "rarity": "common",
+            "rarity": "Common",
             "iconName": "forest_biome"
         },
         {
@@ -97,7 +97,7 @@
             "description": "Aesthetics only",
             "displayPrice": "$1.99",
             "currencyType": "realMoney",
-            "rarity": "rare",
+            "rarity": "Rare",
             "iconName": "vaporwave_biome"
         },
         {
@@ -106,7 +106,7 @@
             "description": "Chill vibes",
             "displayPrice": "$1.99",
             "currencyType": "realMoney",
-            "rarity": "rare",
+            "rarity": "Rare",
             "iconName": "cafe_biome"
         },
         {
@@ -115,7 +115,7 @@
             "description": "Essential gear",
             "displayPrice": "$4.99",
             "currencyType": "realMoney",
-            "rarity": "rare",
+            "rarity": "Rare",
             "iconName": "icon_bundle_starter"
         },
         {
@@ -124,7 +124,7 @@
             "description": "Everything you need",
             "displayPrice": "$14.99",
             "currencyType": "realMoney",
-            "rarity": "legendary",
+            "rarity": "Legendary",
             "iconName": "icon_bundle_ultimate"
         }
     ]
